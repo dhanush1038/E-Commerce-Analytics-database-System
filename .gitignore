@@ -1,0 +1,16 @@
+# Ignore Windows thumbnail caches
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Ignore Mac system files (just in case)
+.DS_Store
+
+# Ignore IDE/Editor folders
+.vscode/
+.idea/
+
+# Ignore your temporary scratch file
+scratch.txt
+schema.sql
